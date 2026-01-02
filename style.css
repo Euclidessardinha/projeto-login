@@ -64,3 +64,12 @@ div#formulario > h1 {
 div#formulario > p {
     font-size: 0.8em;
 }
+
+.campo{
+    margin-top: 10px;
+}
+
+#se{
+    margin-left: -95px;
+    margin-bottom: 20px;
+}
